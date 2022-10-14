@@ -1,7 +1,8 @@
 # Transport
 Nice addition to Israeli apps
 Recently the minister of transportation decided to make new payment rates that depend on distance.
-This application calculates the distance and tells the user how much he needs to pay.
+This application calculates the distance and tells the user how much he needs to pay
+
 
 
 Highlights:
